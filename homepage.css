@@ -1,0 +1,58 @@
+title {text-align: left;
+	height: 200px;
+	width: 200px;}
+
+h1 {
+ 
+ font-family: 'Dancing Script', cursive;
+ font-size:  80px;
+ color:black;
+  margin:50px;
+  text-align: left; }
+
+ h1:hover {color:red;}
+
+ img {text-align:left;
+	 border: 5px solid white;
+	 border-radius:50%;
+	 width:100px;
+	 height:100px;
+	 background-position: left;}
+
+h2 {
+background: black;
+text-align: left;
+display: inline;
+color:white;
+}
+
+li {display: inline;
+margin:0px 10px 0px 10px;
+color:black;}
+
+ul {background: black;}
+
+
+body{text-align: center;
+font-size: 25px;
+	background:white;
+	color:black;
+	margin:250px;
+	border:300px 0px 300px 0px 300px 0px 300px 0px 300px 0px 300px;
+	font-family: 'Nunito', sans-serif;}
+
+p{margin:50px;}
+
+
+
+a {color:white;}
+a:link {color:black;}
+ a:visited { color:white; }	
+  a:hover { color:red; }	
+
+  .Culture:hover {color:red;}
+  .News:hover {color:red;}
+  .Voices:hover {color:red;}
+  .Indy:hover {color:red;}
+   .Video:hover {color:red;}
+  .Sports:hover {color:red;}
