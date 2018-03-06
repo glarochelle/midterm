@@ -28,7 +28,7 @@ color:white;
 }
 
 h3{font-family: 'Krona One', sans-serif;
-height:500px;
+/* height:500px; */
 width: auto;
 color:black;}
 
@@ -61,7 +61,7 @@ p{margin:50px;}
 a {color:red;}
 a:link {color:red;}
  a:visited { color:red; }
-  a:hover { color:white; }
+  /* a:hover { color:white; } */
 
   .Culture:hover {color:white;}
   .News:hover {color:white;}
@@ -119,8 +119,3 @@ width:400px;
  border: 10px solid white;
 	 border-radius:300%;
 	 background-position: left;}
-
-
-	 	 
-
-
